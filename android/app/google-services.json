@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "443687848456",
+    "project_id": "swiftpark-8ad2f",
+    "storage_bucket": "swiftpark-8ad2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443687848456:android:1508bf537e40a2f16f5fbd",
+        "android_client_info": {
+          "package_name": "com.example.scanner_for_swiftpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443687848456-vdrbgq4bcfce7dcdl01hn6ilc44khf61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsBCildLkpv6WNI4zY3JMDKN6z-RX_ce4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443687848456-vdrbgq4bcfce7dcdl01hn6ilc44khf61.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443687848456-rog0gpne3linl1v3upt9lt3f48iu9je1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scannerForSwiftpark"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443687848456:android:7a5f43ff914c4ee36f5fbd",
+        "android_client_info": {
+          "package_name": "com.example.swift_park"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443687848456-monb6do89sdh297p17qmjq9gcjaugj73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swift_park",
+            "certificate_hash": "e592e95ccdda32a9aa2c21e72dd51205c4634175"
+          }
+        },
+        {
+          "client_id": "443687848456-vdrbgq4bcfce7dcdl01hn6ilc44khf61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsBCildLkpv6WNI4zY3JMDKN6z-RX_ce4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443687848456-vdrbgq4bcfce7dcdl01hn6ilc44khf61.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443687848456-rog0gpne3linl1v3upt9lt3f48iu9je1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scannerForSwiftpark"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443687848456:android:a52b9c8152b7ee666f5fbd",
+        "android_client_info": {
+          "package_name": "com.example.swiftpark_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443687848456-vdrbgq4bcfce7dcdl01hn6ilc44khf61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsBCildLkpv6WNI4zY3JMDKN6z-RX_ce4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443687848456-vdrbgq4bcfce7dcdl01hn6ilc44khf61.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443687848456-rog0gpne3linl1v3upt9lt3f48iu9je1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scannerForSwiftpark"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
